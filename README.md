@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathraj-g&label=Profile%20views&color=0e75b6&style=flat" alt="bharathraj-g" /> </p>
 
-- ✅ Creative UI/UX Designer on a Mission to Craft Stunning Digital Experiences
+- ✅ Creative UI/UX Designer
 
-- 👯 Let’s collaborate on No-code & Low-code Web Solutions or Responsive Web Projects.
+- 👯 Collaborate on No-code & Low-code Web Projects.
 
-- 💬 Ask me about UI/UX, web design, and bringing ideas to life with no-code tools.
-
-- 🌟 Open to freelance opportunities and exciting collaborations.
+- 💬 Ask me about UI/UX, web design.
+  
+- 🌟 Open to freelance opportunities.
 
 - 📫 Reach me at bharathraj.rg@gmail.com
 
