@@ -1,8 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/C4E1BAQGH_u5rp8cjjQ/company-background_10000/company-background_10000/0/1638958260370/designerrsacademy_cover?e=2147483647&v=beta&t=6soF-EAXhs6HzDZ-rFNlmWg74OAwTtuIF6XmlcV4yJI)](https://rishavchanda.io)
 
-<h1 align="center">🤝 Meet Mr. Bharath Raj</h1>
-<h3 align="center">A passionate UI/UX designer from India</h3>
-<img align="right" alt="Web design" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*kzyNlgVr0S1rqESP39OQbg.gif">
+<h1 align="left">🤝Meet Mr. Bharath Raj</h1>
+<h3 align="left">A passionate UI/UX designer from India</h3>
+<img align="right" alt="Web design" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHluanNwdno5c3JmczF6MW5tbnM5MGd5ZnRncGt1c3U4dHVlNHpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJ6K7XnP2K2p3VWft/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathraj-g&label=Profile%20views&color=0e75b6&style=flat" alt="bharathraj-g" /> </p>
 
