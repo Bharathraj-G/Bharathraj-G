@@ -2,7 +2,7 @@
 
 <h1 align="left">🤝Meet Mr. Bharath Raj</h1>
 <h3 align="left">A passionate UI/UX designer from India</h3>
-<img align="right" alt="Web design" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHluanNwdno5c3JmczF6MW5tbnM5MGd5ZnRncGt1c3U4dHVlNHpuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5WJ6K7XnP2K2p3VWft/giphy.gif">
+<img align="right" alt="Web design" width="300" src="https://miro.medium.com/v2/resize:fit:960/0*7CcakWSRHc9eJXgL.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathraj-g&label=Profile%20views&color=0e75b6&style=flat" alt="bharathraj-g" /> </p>
 
